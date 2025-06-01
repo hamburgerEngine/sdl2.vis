@@ -61,5 +61,5 @@ platforms/VisualC/Moon4K/x64/Release/Moon4K.vcxproj.FileListAbsolute.txt
 platforms/VisualC/Moon4K/x64/Debug/Moon4K.vcxproj.FileListAbsolute.txt
 /src/flappyHE
 /Moon4K-main
-x64/Release
-x64/Debug
+/demo/x64/Release
+/demo/x64/Debug
