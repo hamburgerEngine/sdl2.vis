@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koifish\\Documents\\VS\\Moon4K\\external\\sdl2.vis\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{863F5A6D-E9FB-4FAA-B351-24E73FC6EF51}|sdl2.vis-demo.vcxproj|C:\\Users\\koifish\\Documents\\VS\\Moon4K\\external\\sdl2.vis\\demo\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F5A6D-E9FB-4FAA-B351-24E73FC6EF51}|sdl2.vis-demo.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F5A6D-E9FB-4FAA-B351-24E73FC6EF51}|sdl2.vis-demo.vcxproj|C:\\USERS\\KOIFISH\\DOCUMENTS\\VS\\MOON4K\\EXTERNAL\\SDL2.VIS\\DEMO\\EXTERNAL\\SDL2\\SDL.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F5A6D-E9FB-4FAA-B351-24E73FC6EF51}|sdl2.vis-demo.vcxproj|solutionrelative:EXTERNAL\\SDL2\\SDL.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SDL.h",
+              "DocumentMoniker": "C:\\Users\\koifish\\Documents\\VS\\Moon4K\\external\\sdl2.vis\\demo\\external\\SDL2\\SDL.h",
+              "RelativeDocumentMoniker": "external\\SDL2\\SDL.h",
+              "ToolTip": "C:\\Users\\koifish\\Documents\\VS\\Moon4K\\external\\sdl2.vis\\demo\\external\\SDL2\\SDL.h",
+              "RelativeToolTip": "external\\SDL2\\SDL.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-01T16:19:53.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\koifish\\Documents\\VS\\Moon4K\\external\\sdl2.vis\\demo\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\koifish\\Documents\\VS\\Moon4K\\external\\sdl2.vis\\demo\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T16:19:49.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
